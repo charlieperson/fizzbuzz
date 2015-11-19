@@ -17,4 +17,5 @@ describe "fizzbuzz" do
   it "should return the number if not divisible by 3 or 5" do
     expect(fizzbuzz(2)).to eq(2)
   end
+
 end
